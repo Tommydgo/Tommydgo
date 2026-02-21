@@ -1,6 +1,6 @@
 # Salut, moi c'est Tommy ! 👋
 
-### 🚀 Étudiant Tek[1] @ Epitech Montpellier
+### 🚀 Étudiant Tek1 - EPITECH Montpellier
 
 C'est ici que je documente mon parcours et mes projets réalisés durant mon cursus à Epitech mais aussi mes projets personnels. Je m'intéresse beaucoup à l'IA, la cybersécurité et le web. J'aime aussi suivre et découvrir les nouvelles technologies.
 
