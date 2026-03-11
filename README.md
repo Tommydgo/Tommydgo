@@ -2,7 +2,7 @@
 
 ### 🚀 Étudiant Tek1 - EPITECH Montpellier
 
-C'est ici que je documente mon parcours et mes projets réalisés durant mon cursus à Epitech mais aussi mes projets personnels. Je m'intéresse beaucoup à la cybersécurité. J'aime aussi suivre et découvrir les nouvelles technologies.
+C'est ici que je documente mon parcours et mes projets réalisés durant mon cursus à Epitech mais aussi mes projets personnels. Je m'intéresse beaucoup au web et à la cybersécurité. J'aime aussi suivre et découvrir les nouvelles technologies.
 
 ---
 
