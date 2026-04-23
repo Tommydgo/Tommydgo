@@ -35,7 +35,7 @@ C'est ici que je documente mon parcours et mes projets réalisés durant mon cur
 
 ### 📫 Me contacter
 
-* **E-mail :** tommy1.diago@epitech.eu
+* **E-mail :** tommy.diago@epitech.eu
 * **Portfolio :** En cours de réalisation...
 
 ---
