@@ -29,7 +29,7 @@ C'est ici que je documente mon parcours et mes projets réalisés durant mon cur
 
 ### 📁 Projets perso
 
-* **[Xouh]** : Xouh (IA + APP) est un compagnon ciblé pour les personnes en traitement de chimiothérapie et de radiothérapie qui est composé d'une IA mais aussi d'une application web complète. Nous sommes encore en train de travailler dessus.
+* **[Xouh]** : Xouh, application spécialement développée pour les besoins post-thérapeutiques qui propose des programmes de fitness adaptés aux patients en rémission. Nous sommes encore en train de travailler dessus.
 
 ---
 
