@@ -31,6 +31,8 @@ C'est ici que je documente mon parcours et mes projets réalisés durant mon cur
 
 * **[Xouh]** : Xouh, application spécialement développée pour les besoins post-thérapeutiques qui propose des programmes de fitness adaptés aux patients en rémission. Nous sommes encore en train de travailler dessus.
 
+* **[Grammerde]** : Grammerde, application web de correction de texte gamifiée qui scrape des articles Wikipedia en français ou en anglais, y injecte des fautes via l'API OpenAI, et challenge l'utilisateur à les retrouver.
+
 ---
 
 ### 📫 Me contacter
