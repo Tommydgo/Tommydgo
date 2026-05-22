@@ -33,6 +33,8 @@ C'est ici que je documente mon parcours et mes projets réalisés durant mon cur
 
 * **[Grammerde]** : Grammerde, application web de correction de texte gamifiée qui scrape des articles Wikipedia en français ou en anglais, y injecte des fautes via l'API OpenAI, et challenge l'utilisateur à les retrouver. https://grammerde.fr/
 
+* **[Gemboard]** : Gemboard, application web de gestion de tâches (todos) avec système d'authentification utilisateur.
+
 ---
 
 ### 📫 Me contacter
