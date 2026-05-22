@@ -29,11 +29,15 @@ C'est ici que je documente mon parcours et mes projets réalisés durant mon cur
 
 ### 📁 Projets perso
 
-* **[Xouh]** : Xouh, application spécialement développée pour les besoins post-thérapeutiques qui propose des programmes de fitness adaptés aux patients en rémission. Nous sommes encore en train de travailler dessus.
+Projets en cours de développement :
 
-* **[Grammerde]** : Grammerde, application web de correction de texte gamifiée qui scrape des articles Wikipedia en français ou en anglais, y injecte des fautes via l'API OpenAI, et challenge l'utilisateur à les retrouver. https://grammerde.fr/
+* **[Xouh]** : Application spécialement développée pour les besoins post-thérapeutiques qui propose des programmes de fitness adaptés aux patients en rémission. Nous sommes encore en train de travailler dessus.
 
-* **[Gemboard]** : Gemboard, application web de gestion de tâches (todos) avec système d'authentification utilisateur.
+* **[Gemboard]** : Application web de gestion de tâches permettant aux utilisateurs de s'inscrire, se connecter, et gérer leurs todos.
+
+Projets terminés :
+
+* **[Grammerde]** : Application web de correction de texte gamifiée qui scrape des articles Wikipedia en français ou en anglais, y injecte des fautes via l'API OpenAI, et challenge l'utilisateur à les retrouver. https://grammerde.fr/
 
 ---
 
