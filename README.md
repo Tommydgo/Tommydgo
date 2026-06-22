@@ -37,7 +37,7 @@ Projets en cours de développement :
 
 Projets terminés :
 
-* **[Grammerde]** : Application web de correction de texte gamifiée qui scrape des articles Wikipedia en français ou en anglais, y injecte des fautes via l'API OpenAI, et challenge l'utilisateur à les retrouver. https://grammerde.fr/
+* **[Grammerde]** : Application web de correction de texte gamifiée qui scrape des articles Wikipedia en français ou en anglais, y injecte des fautes via l'API OpenAI, et challenge l'utilisateur à les retrouver. https://grammerde.onrender.com
 
 ---
 
