@@ -30,11 +30,11 @@ Projets en cours de développement :
 
 * **[Xouh]** : Application spécialement développée pour les besoins post-thérapeutiques qui propose des programmes de fitness adaptés aux patients en rémission. Nous sommes encore en train de travailler dessus.
 
-* **[Gemboard]** : Application web de gestion de tâches permettant aux utilisateurs de s'inscrire, se connecter, et gérer leurs todos.
-
 Projets terminés :
 
 * **[Grammerde]** : Application web de correction de texte gamifiée qui scrape des articles Wikipedia en français ou en anglais, y injecte des fautes via l'API OpenAI, et challenge l'utilisateur à les retrouver. https://grammerde.onrender.com
+
+* **[Gemboard]** : Application web de gestion de tâches permettant aux utilisateurs de s'inscrire, se connecter, et gérer leurs todos. https://gemboard.onrender.com
 
 ---
 
