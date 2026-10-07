@@ -30,7 +30,7 @@ Projets en cours de développement :
 
 * **[Xouh]** : Application spécialement développée pour les besoins post-thérapeutiques qui propose des programmes de fitness adaptés aux patients en rémission. Nous sommes encore entrain de travailler dessus.
 
-* * **[Guitariano]** : Les outils du quotidien d'un guitariste ou d'un pianiste, dans une seule web-app installable et utilisable hors ligne : accordeur, métronome, gammes accords et bien d'autres. Je suis encore entrain de travailler dessus. https://guitariano.vercel.app
+* **[Guitariano]** : Les outils du quotidien d'un guitariste ou d'un pianiste, dans une seule web-app installable et utilisable hors ligne : accordeur, métronome, gammes accords et bien d'autres. Je suis encore entrain de travailler dessus. https://guitariano.vercel.app
 
 Projets terminés :
 
